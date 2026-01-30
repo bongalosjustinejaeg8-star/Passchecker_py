@@ -1,1 +1,9 @@
-# Passchecker_py git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/bongalosjustinejaeg8-star/Passchecker_py.git git push -u origin main
+# Password Checker in Python  #
+- with CLI and UI version
+- used Entropy as the basis of password strength
+# Features #
+- checks your password
+- jus that
+# Credits #
+- me: Justine Jae S. Bongalos
+- ChatGpt: for helping me understand how entropy works
